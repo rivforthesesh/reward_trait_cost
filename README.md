@@ -1,2 +1,4 @@
 # reward_trait_cost
-reward trait cost source code 
+source code for my reward trait cost mod at https://rivforthesesh.itch.io/rivs-reward-store-config
+
+please credit me if you use any of it
